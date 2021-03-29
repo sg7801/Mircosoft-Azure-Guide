@@ -118,8 +118,6 @@ For major changes, you are welcomed to open an issue  about what you would like 
 #### All the Best!🥇
 
 <p align = "center">
-
-<a href="https://github.com/akrish4"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sg7801/Mircosoft-Azure-Guide)
 
 </p>
