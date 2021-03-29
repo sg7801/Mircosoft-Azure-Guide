@@ -117,7 +117,6 @@ For major changes, you are welcomed to open an issue  about what you would like 
 
 #### All the Best!🥇
 
-<p align = "center">
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sg7801/Mircosoft-Azure-Guide)
 
 </p>
