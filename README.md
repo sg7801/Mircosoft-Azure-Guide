@@ -112,7 +112,7 @@ This will open an editor which will allow you to squash the commits.
 
 For more detailed reference to the above points, refer here: https://chris.beams.io/posts/git-commit.
 
-## 💥 Issues:
+## Issues:
 For major changes, you are welcomed to open an issue  about what you would like to contribute. Enhancements will be appreciated.
 
 #### All the Best!🥇
