@@ -1,5 +1,7 @@
 # Mircosoft-Azure-Guide
-﻿
+
+**This repository is made with the aim to collect all available resources to help beginners get started with Microsoft Azure. Be it your notes, presentations, diagrams or anything else. We would love to have that here so that others can get help from it.**
+
 ## ***First time contributing? We will help you out.*** 
 
 ![GitHub custom open for collaboration](https://img.shields.io/badge/Open%20For-Collaboration-brightgreen?style=for-the-badge)
@@ -42,7 +44,7 @@ git clone https://github.com/<your-github-username>/Mircosoft-Azure-Guide.git
 
 ```bash
 cd Mircosoft-Azure-Guide   
-```
+``
 
 **4.** Make a feature branch
 ```bash
